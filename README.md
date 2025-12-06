@@ -1,0 +1,2 @@
+# Python-22
+Write a Python program that creates a third list after adding two lists.
